@@ -2,7 +2,7 @@
 Esse repositório compõe a atividade da terceira semana do curso de Back-end da {Reprograma}. 
 Atividade sobre Logica 2 (Escopo, funções e condicionais) com sete exercicios.  
 
-##Ideias Inicias:
+## Ideias Inicias:
 Nesta aula, em continuidade a aula da semana anterior, tivemos como principal foco a utilização da
 função (function) e como/porque definir os parametros para executa-la. Em suma a tematica da aula
 adentrou os assuntos a seguir: 
