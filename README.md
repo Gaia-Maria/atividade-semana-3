@@ -10,7 +10,7 @@ adentrou os assuntos a seguir:
 2. Parametros; 
 3. Condicionais.  
 
-##Desenvolvimento:
+### Desenvolvimento:
 1. Uma função é definida atraves de ações que se chamadas por meio dos parametros deve retornar o resultado.
 2. Os parametros são definidos dentro dos parenteses depois de adionar a função  
 *Exp:* function **(parametros aqui)**
